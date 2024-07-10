@@ -2,9 +2,7 @@
 
 ## Educational Researcher and AI Enthusiast
 
-![Profile Picture](link-to-your-profile-picture)
-
-Welcome to my GitHub profile! I am Nazar Hussain, a passionate educational researcher and AI enthusiast with a strong background in computer science, focusing on machine learning, deep learning, and computer vision.
+I am Nazar Hussain, a passionate educational researcher and AI enthusiast with a strong background in computer science, focusing on machine learning, deep learning, and computer vision.
 
 <div style="border: 1px solid #ccc; padding: 16px; border-radius: 8px; margin-bottom: 16px;">
   <h2>Work Experience</h2>
