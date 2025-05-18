@@ -74,7 +74,7 @@ I am Nazar Hussain, a passionate educational researcher and AI enthusiast with a
   <strong>Details:</strong> Classified different fruits into related classes with an accuracy of 99.6%.
 
   <h3>Academic Projects</h3>
-  - Fire detection using Machine Learning
+  - Fire Detection Using Machine Learning
   - Object Detection and Classification using Salient-Based Segmentation
   - Breast Cancer Classification Using Machine Learning
   - Comic Character Classification using Machine Learning
